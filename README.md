@@ -21,6 +21,9 @@ More information: https://en.wikipedia.org/wiki/15_puzzle
  - The user should be able to move the blocks into the blank space
  - The user should be able to reset the puzzle
 
+## Next features
+ - Show a animation when the user complete the challenge
+
 ## Previews
 
 https://user-images.githubusercontent.com/62518806/122410688-8593e300-cf5a-11eb-97ba-3c8bfb06f6bd.mov
